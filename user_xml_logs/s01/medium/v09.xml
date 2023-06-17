@@ -1,0 +1,33 @@
+<Gesture Name="v09" Subject="1" Speed="medium">
+	<Point X="184" Y="102" T="1" />
+	<Point X="191" Y="110" T="2" />
+	<Point X="200" Y="123" T="3" />
+	<Point X="206" Y="132" T="4" />
+	<Point X="215" Y="143" T="5" />
+	<Point X="224" Y="155" T="6" />
+	<Point X="230" Y="164" T="7" />
+	<Point X="235" Y="170" T="8" />
+	<Point X="239" Y="175" T="9" />
+	<Point X="242" Y="180" T="10" />
+	<Point X="245" Y="184" T="11" />
+	<Point X="246" Y="185" T="12" />
+	<Point X="246" Y="186" T="13" />
+	<Point X="246" Y="185" T="14" />
+	<Point X="246" Y="180" T="15" />
+	<Point X="246" Y="176" T="16" />
+	<Point X="246" Y="170" T="17" />
+	<Point X="246" Y="159" T="18" />
+	<Point X="243" Y="148" T="19" />
+	<Point X="240" Y="125" T="20" />
+	<Point X="237" Y="96" T="21" />
+	<Point X="234" Y="70" T="22" />
+	<Point X="231" Y="50" T="23" />
+	<Point X="231" Y="41" T="24" />
+	<Point X="231" Y="36" T="25" />
+	<Point X="231" Y="34" T="26" />
+	<Point X="231" Y="33" T="27" />
+	<Point X="231" Y="32" T="28" />
+	<Point X="231" Y="31" T="29" />
+	<Point X="231" Y="30" T="30" />
+	<Point X="232" Y="29" T="31" />
+</Gesture>

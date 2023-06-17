@@ -1,0 +1,36 @@
+<Gesture Name="check07" Subject="3" Speed="medium">
+	<Point X="228" Y="145" T="1" />
+	<Point X="228" Y="146" T="2" />
+	<Point X="231" Y="149" T="3" />
+	<Point X="233" Y="151" T="4" />
+	<Point X="236" Y="155" T="5" />
+	<Point X="240" Y="161" T="6" />
+	<Point X="244" Y="166" T="7" />
+	<Point X="247" Y="170" T="8" />
+	<Point X="251" Y="174" T="9" />
+	<Point X="253" Y="178" T="10" />
+	<Point X="255" Y="180" T="11" />
+	<Point X="257" Y="183" T="12" />
+	<Point X="257" Y="184" T="13" />
+	<Point X="258" Y="184" T="14" />
+	<Point X="258" Y="185" T="15" />
+	<Point X="259" Y="185" T="16" />
+	<Point X="261" Y="182" T="17" />
+	<Point X="262" Y="180" T="18" />
+	<Point X="265" Y="178" T="19" />
+	<Point X="268" Y="173" T="20" />
+	<Point X="273" Y="169" T="21" />
+	<Point X="283" Y="160" T="22" />
+	<Point X="295" Y="150" T="23" />
+	<Point X="326" Y="126" T="24" />
+	<Point X="338" Y="116" T="25" />
+	<Point X="358" Y="102" T="26" />
+	<Point X="373" Y="93" T="27" />
+	<Point X="385" Y="86" T="28" />
+	<Point X="398" Y="77" T="29" />
+	<Point X="406" Y="72" T="30" />
+	<Point X="415" Y="66" T="31" />
+	<Point X="419" Y="64" T="32" />
+	<Point X="421" Y="62" T="33" />
+	<Point X="422" Y="61" T="34" />
+</Gesture>
